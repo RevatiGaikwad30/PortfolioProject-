@@ -15,3 +15,6 @@ goldusers_signup:
    This table contains data about Premium members means those members who had been taken subscription of Master Food.
    
    I have explored this data through different queries. 
+   
+# Covid 19 Data Exploration -
+In this project i have explored global covid 19 data.
