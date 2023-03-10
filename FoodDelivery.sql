@@ -1,4 +1,4 @@
-# Assume online food delivery service naming Master Food  
+# Food Delivery Insights: Analysing Data with SQL  
 #Let's Create tables
 
 /* Creating Premium membership users table
